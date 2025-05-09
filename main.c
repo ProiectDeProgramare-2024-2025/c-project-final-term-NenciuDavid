@@ -33,7 +33,7 @@ void clearScreen() {
 }
 
 void displayMenu(){
-    printf("\ndadadadaMain Menu\n");
+    printf("\nMain Menu\n");
     printf("1. View offers\n");
     printf("2. Check Availability\n");
     printf("3. View Appointments History\n");
